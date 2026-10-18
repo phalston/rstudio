@@ -27,8 +27,8 @@
     "forge": "./forge.config.js"
   },
   "devDependencies": {
-    "@electron-forge/cli": "7.8.1",
-    "@electron-forge/plugin-webpack": "7.8.1",
+    "@electron-forge/cli": "8.0.1",
+    "@electron-forge/plugin-webpack": "8.0.1",
     "@electron/packager": "18.3.6",
     "@eslint/eslintrc": "3.3.1",
     "@eslint/js": "9.25.1",
@@ -46,7 +46,7 @@
     "chai": "5.2.0",
     "copy-webpack-plugin": "13.0.0",
     "css-loader": "7.1.2",
-    "electron": "37.2.0",
+    "electron": "41.10.6",
     "electron-mocha": "13.1.0",
     "eslint": "9.25",
     "fork-ts-checker-webpack-plugin": "9.1.0",
@@ -82,8 +82,8 @@
     "node-system-fonts": "1.0.1",
     "properties-reader": "2.3.0",
     "semver": "7.7.1",
-    "uuid": "11.1.0",
-    "vue": "3.5.13",
+    "uuid": "14.0.3",
+    "vue": "3.5.44",
     "winston": "3.17.0",
     "winston-syslog": "2.7.1"
   }
